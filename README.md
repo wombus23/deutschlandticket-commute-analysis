@@ -10,7 +10,7 @@ commuting to **Robert-Koch-Straße 1, 22851 Norderstedt**, and their likely
   districts and surrounding towns, weighted by real population figures. Each one gets a
   genuine door-to-door HVV itinerary (walk → bus/U-Bahn/S-Bahn/rail → walk) for a Monday
   08:00 arrival, computed via the open [Transitous](https://transitous.org) API on official
-  HVV/DELFI GTFS timetables — resolving down to the *Glashütte, Robert-Koch-Straße* bus stop
+  HVV/DELFI GTFS timetables resolving down to the *Glashütte, Robert-Koch-Straße* bus stop
   at the plant gate.
 - **Transparent adoption model.** A rule-based 0–100 score built on established mode-choice
   drivers (time vs. car, transfers, walking, cost savings) fully interpretable, tunable in
