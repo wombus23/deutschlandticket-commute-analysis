@@ -13,7 +13,7 @@ commuting to **Robert-Koch-Straße 1, 22851 Norderstedt**, and their likely
   HVV/DELFI GTFS timetables — resolving down to the *Glashütte, Robert-Koch-Straße* bus stop
   at the plant gate.
 - **Transparent adoption model.** A rule-based 0–100 score built on established mode-choice
-  drivers (time vs. car, transfers, walking, cost savings) — fully interpretable, tunable in
+  drivers (time vs. car, transfers, walking, cost savings) fully interpretable, tunable in
   one place, and honest about being a proxy rather than a trained behavioral model.
 - **Actionable output.** Commute-time bands, adoption classes, strongest/weakest catchment
   areas, key adoption drivers, and an interactive Folium map with toggleable layers.
@@ -22,7 +22,7 @@ commuting to **Robert-Koch-Straße 1, 22851 Norderstedt**, and their likely
 ![Commute map preview](outputs/map_preview.png)
 
 *Static preview — open the full interactive version:
-[**View live map**](https://htmlpreview.github.io/?https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/outputs/commute_map.html)
+[**View live map**](https://htmlpreview.github.io/?https://github.com/wombus23/deutschlandticket-commute-analysis/blob/main/outputs/commute_map.html)
 or download [`outputs/commute_map.html`](outputs/commute_map.html) and open it in a browser.*
 ## Repository structure
 
