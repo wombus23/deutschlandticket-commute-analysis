@@ -1,8 +1,8 @@
-# Deutschlandticket Commute Potential — J&J Medical GmbH, Norderstedt
+# Deutschlandticket Commute Potential
 
 A data science case study estimating how attractive public transport is for employees
 commuting to **Robert-Koch-Straße 1, 22851 Norderstedt**, and their likely
-**Deutschlandticket** adoption — built entirely on **synthetic employee data**.
+**Deutschlandticket** adoption built entirely on **synthetic employee data**.
 
 ## Highlights
 
